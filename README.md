@@ -9,4 +9,4 @@
 * docker-compose run web python manage.py test
 
 ## How to run your application:
-* python manage.py runserver
+* docker-compose up
